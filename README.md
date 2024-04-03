@@ -49,14 +49,10 @@ def max_marks(list1):
 
 ## Output:
 i) To find the maximum of marks using the list method sort.
-![Screenshot 2024-03-25 051956](https://github.com/RAGULRAAJAN/FindMaximum/assets/147473144/ceb10188-f58b-4caa-b58c-56a099118906)
-
+![Alt text](<Screenshot 2024-04-03 171442.png>)
 ii)	To find the maximum marks using the list method max().
-![Screenshot 2024-03-25 052012](https://github.com/RAGULRAAJAN/FindMaximum/assets/147473144/2c02d8a5-0676-41bc-9775-d9a69e7181c8)
-
+ ![Alt text](<Screenshot 2024-04-03 172600.png>)
 iii) To find the maximum marks without using builtin functions.
-![Screenshot 2024-03-25 052027](https://github.com/RAGULRAAJAN/FindMaximum/assets/147473144/7d3a5c85-980a-4d6f-8b64-ac0d4b40ca74)
-
-
+![Alt text](<Screenshot 2024-04-03 172618.png>)
 ## Result:
 Thus the program to find the maximum of given numbers from the list is written and verified using python programming.
